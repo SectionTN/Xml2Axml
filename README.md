@@ -22,15 +22,6 @@ If tou want to encode xml file and put it somewhere in sdcard then use this func
 ```java
 AxmlUtil.encodeFile("NormalXmlFilePath", "OutputFilePath");
 ```
-## Usage - Using cli version
-To decode a binary xml file use this command
-```nginx
-java -jar AxmlXml-CLI.jar -d inputFilePath outputFilePath
-```
-To encode a xml file use this command
-```nginx
-java -jar AxmlXml-CLI.jar -e inputFilePath outputFilePath
-```
 ## Note
 Don't forget to add this rule in your proguard config file if you are using proguard.
 ```nginx
