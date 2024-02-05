@@ -1,7 +1,7 @@
 ## Description
 This tool is used to decode binary xml file from android apps into human readable xml file and to encode human readable xml file into binary xml file.
 ## Adding in project
-Just copy axml folder and add it in your project directory or download AxmlXml.jar from releases and put it in libs folder of your project.
+Just copy axml folder and add it in your project directory.
 ## Usage - Decoding binary xml
 If you want to decode a binary xml file from sdcard and take decoded xml as a ` String `. Then call this function.
 ```java
